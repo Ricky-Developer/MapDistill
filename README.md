@@ -10,15 +10,29 @@ ArXiv Preprint (coming soon)
 </div>
 
 #
-### News
-* **`Jul. 1st, 2024`:** MapDistill is accepted to ECCV 2024. Code/Models are coming soon. Please stay tuned! ☕️
+
+## Table of Contents
+  - [News](#news)
+  - [TODO List](#todo-list)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
+  - [Citation](#citation)
+
+## News
+* **`Jul. 1st, 2024`:** :fire: MapDistill is accepted to ECCV 2024. Code/Models are coming soon. Please stay tuned! ☕️
 
 
-## Catalog
-- [ ] Nuscenes dataset 
+## TODO List
+- [x] Initial release. 🚀
+- [ ] Getting Started.
+- [ ] Installation.
 - [ ] MapDistill checkpoints
 - [ ] MapDistill code
-- [ ] Initialization
+- [ ] ...
+
+
+## License
+This work is under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), while some specific operations in this codebase might be with other licenses. Please refer to [LICENSE](LICENSE) for a more careful check, if you are using our code for commercial matters.
 
 ## Acknowledgements
 
