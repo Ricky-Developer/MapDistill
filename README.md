@@ -12,10 +12,10 @@ ArXiv Preprint (coming soon)
 
 
 ## Catalog
-- [x] Nuscenes dataset 
-- [x] MapDistill checkpoints
-- [x] MapDistill code
-- [x] Initialization
+- [ ] Nuscenes dataset 
+- [ ] MapDistill checkpoints
+- [ ] MapDistill code
+- [ ] Initialization
 
 ## Acknowledgements
 
