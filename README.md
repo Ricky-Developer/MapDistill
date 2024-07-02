@@ -26,8 +26,8 @@ ArXiv Preprint (coming soon)
 - [x] Initial release. 🚀
 - [ ] Getting Started.
 - [ ] Installation.
-- [ ] MapDistill checkpoints
-- [ ] MapDistill code
+- [ ] MapDistill checkpoints.
+- [ ] MapDistill code.
 - [ ] ...
 
 
