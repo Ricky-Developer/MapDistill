@@ -19,7 +19,7 @@ ArXiv Preprint (coming soon)
   - [Citation](#citation)
 
 ## News
-* **`Jul. 1st, 2024`:** :fire: MapDistill is accepted to ECCV 2024. Code/Models are coming soon. Please stay tuned! ☕️
+* **`Jul. 1st, 2024`:** :fire: MapDistill is accepted to ECCV 2024. Code/Models are coming soon. Please stay tuned! :coffee:
 
 
 ## TODO List
