@@ -4,6 +4,9 @@
 
 ArXiv Preprint (coming soon)
 
+<center>
+<img src='assets/framework.png'>
+</center>
 </div>
 
 #
