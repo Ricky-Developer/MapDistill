@@ -1,5 +1,5 @@
 <div align="center">
-<h1>MapDistill <img src="assets/map.png" width="30"></h1>
+<h1>MapDistill <img src="assets/icon.png" width="30"></h1>
 <h3>Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation</h3>
 
 ArXiv Preprint (coming soon)
