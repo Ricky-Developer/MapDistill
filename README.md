@@ -2,7 +2,7 @@
 <h1>MapDistill <img src="assets/icon.png" width="30"></h1>
 <h3>Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation</h3>
 
-ArXiv Preprint (coming soon)
+ArXiv Preprint ([arXiv 2407.11682](https://arxiv.org/abs/2407.11682))
 
 <center>
 <img src='assets/framework.png'>
